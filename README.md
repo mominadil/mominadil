@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mominadil
 - 👀 I’m interested in Website development 
 - 🌱 I’m currently learning wordpress theme development
-- 📫 How to reach me https://www.instagram.com/m____adi__/
+- 📫 How to reach me <i class="fab fa-instagram">https://www.instagram.com/m____adi__/</i>
 
 <!---
 mominadil/mominadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
