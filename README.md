@@ -4,8 +4,8 @@
 - 📫 How to reach me mominadil864@gmail.com
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-kumar-41002b179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-kumar-41002b179" height="30" width="40" /></a>
- <a href="https://instagram.com/dpkk_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dpkk_1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adil-momin-06951b1b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adil-momin-06951b1b2" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/m____adi__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m____adi__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
